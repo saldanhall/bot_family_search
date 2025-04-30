@@ -1,1 +1,1 @@
-# search for botanical familes from species list
+# search for botanical families from species list
