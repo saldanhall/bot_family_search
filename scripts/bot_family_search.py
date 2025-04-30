@@ -3,8 +3,8 @@ import requests
 import time
 
 
-# Metadata
-data = pd.read_csv('/Users/saldanhaluizleonardo/Library/Mobile Documents/com~apple~CloudDocs/INDIGENOMICS/Pilot/Metabolomics_analysis/tima_output/pilot_metadata 2.csv')
+# species list
+data = pd.read_csv('/Users/.......csv')
 
 # === 2) Adicionar coluna 'family' pelo POWO ===
 
